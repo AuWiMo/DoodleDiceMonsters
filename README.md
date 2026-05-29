@@ -4,4 +4,4 @@ Doodle Dice Monsters is a strategic turn-based battler where you can draw your o
 You can download the demo here, as the full game is not yet finished and released: 
 https://store.steampowered.com/app/2454170/Doodle_Dice_Monsters/ 
 
-Given that Doodle Dice Monsters is a personal professional endeavor, I do not want to publically display the repo I use privately. However, without Doodle Dice Monsters, my GitHub looks very weak to recruiters and colleagues. Therefore, this page exists.  
+Given that Doodle Dice Monsters is a personal professional endeavor, I do not want to publically display the repo I use privately. However, it is a major part of my portfolio and so this page serves to direct people to its page
